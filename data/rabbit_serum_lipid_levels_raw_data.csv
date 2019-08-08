@@ -1,0 +1,9 @@
+﻿Lab Number,Rabbit Number,Condition,Cholesterol,Triglycerides,HDL,LDL,Cholesterol_ratio
+2,Low 2,Low,700,1760,14,334,50
+3,Low 3,Low,700,891,23,498.8,30.4
+4,Low 4,Low,700,184,26,637.2,26.9
+5,Low 5,Low,700,225,31,624,22.6
+6,Low 6,Low,700,133,22,651.4,31.8
+7,Control 5,Control,700,109,20,658.2,35
+8,Control 6,Control,700,99,20,660.2,35
+9,Control 7,Control,700,138,16,656.4,43.8
